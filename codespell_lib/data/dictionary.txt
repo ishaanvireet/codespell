@@ -45409,6 +45409,7 @@ rewrited->rewrote, rewritten,
 rewriten->rewritten
 rewritting->rewriting
 rewuired->required
+rext->text
 rference->reference
 rferences->references
 rfeturned->returned
