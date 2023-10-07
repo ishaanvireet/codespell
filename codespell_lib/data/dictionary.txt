@@ -22,6 +22,7 @@ aadding->adding
 aafter->after
 aagain->again
 aaggregation->aggregation
+aalphabet-> alphabet
 aanother->another
 aapply->apply
 aaproximate->approximate
