@@ -9,6 +9,7 @@ __attribyte__->__attribute__
 __cpluspus->__cplusplus
 __cpusplus->__cplusplus
 a-diaerers->a-diaereses
+aabacist-> abacist
 aaccess->access
 aaccessibility->accessibility
 aaccession->accession
